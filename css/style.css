@@ -22,12 +22,28 @@ header .menu2 a { color: #ffd900;}
 #s1 .title { position: absolute; width: 1300px; margin-top: 265px; margin-left: -1350px; background: rgba(0,0,0,0);}
 
 #s2 { width: 100%; display: flex; flex-direction: column; padding-top: 30px;}
-#s2 h1 { color: #c09e04; font-size: 60px; font-family: 'Playfair Display'; text-align: center;}
-#s2 hr {border: 1px solid #666; margin-top: 20px;}
+#s2 h1 { color: #ad8f07; font-size: 60px; font-family: 'Playfair Display'; text-align: center;}
+#s2 hr {border: 1px solid #666; margin-top: 40px;}
 #s2 .cont {
-    width: 100%; display: flex; justify-content: space-between; align-items: center; padding-top: 40px;
+    width: 100%; display: flex; justify-content: space-between; align-items: center; padding-top: 80px;
 }
 #s2 .con { margin-top: 200px; margin-left: 50px;}
 #s2 .con .con1 { font-family: 'Gowun Dodum'; font-size: 20px;}
-#s2 .con .con2 { font-family: 'Gowun Dodum'; font-size: 20px; color: #ffd900; margin-top: 150px;}
+#s2 .con .con2 { font-family: 'Gowun Dodum'; font-size: 20px; color: #d1b309; margin-top: 150px;}
 #s2 .cont img { border-radius: 50%;}
+
+#s3 { width: 100%; display: flex; align-items: center; justify-content: space-between; padding-top: 150px; font-family: 'Gowun Dodum';}
+#s3 .left img { border-radius: 50%;}
+#s3 .right { width: 650px; }
+#s3 .right hr { border: 1px solid #555; }
+#s3 .right .list { display: flex; align-items: center; justify-content: space-between; padding: 18px 0;}
+#s3 .right .list h2 { color: #ad8f07; font-family: 'Playfair Display';}
+#s3 .right .list .lr p {text-align: right;}
+#s3 .right .list p { color: #dddbd1dc;}
+
+#s4 { width: 1400px; padding-top: 200px; padding-bottom: 700px;}
+#s4 img { width: 100%; opacity: 0.6;}
+#s4 .t1 {color: #eaebecdc; font-family: 'Playfair Display'; font-size: 60px; position: absolute; margin-top: -370px; margin-left: 480px; background: rgba(0,0,0,0);}
+#s4 .t2 { color: #ebae08; font-family: 'Playfair Display'; font-size: 60px; position: absolute; margin-top: -250px; margin-left: 700px; background: rgba(0,0,0,0);}
+#s4 .p1 { font-family: 'Gowun Dodum'; font-size: 35px; color: #dddbd1dc; position: absolute; margin-top: -50px; margin-left: 100px;}
+#s4 .cont { width: 60%; float: right; font-family: 'Playfair Display'; font-size: 30px; color: #eaebecdc; padding-top: 100px; line-height: 60px;}
